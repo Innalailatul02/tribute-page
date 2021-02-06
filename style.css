@@ -1,0 +1,42 @@
+h1{
+  font-size: 50px;
+  text-shadow: 5px 5px 7px black;
+}
+
+body{
+  text-align: center;
+  font-family: serif;
+  font-size: 16px;
+}
+
+img{
+  max-widt: 50%;
+  display: block;
+  margin: auto;
+  border-radius: 30px;
+  box shadow: 5px 5px 7px black;
+}
+#img-caption{
+  font-size: 30px;
+  text-shadow: 5px 5px 7px black;
+}
+#tribute-info{
+  text-align: justify;
+  font-size: 18px; 
+}
+
+a:link{
+  color: blue;
+  textdecoration: none;
+  font-size: 18px;
+  opacity: 3;
+}
+a:visited{
+  color: #333333;
+}
+a:hover{
+  color: blue;
+}
+a:active{
+  color: #262626;
+}
